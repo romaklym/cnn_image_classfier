@@ -1,11 +1,2 @@
-Adidas_NMD_R1
-Jordan_13_Retro
-Jordan_1_High_OG
-Nike_Air_Force_1_Low
-Nike_Air_Max_270
-Nike_Air_Max_97
-Nike_Air_VaporMax
-Nike_Revolution_5
-air_max_90
-converse_high_tops
-converse_low_tops
+air_jordan_1_dior
+nike_have_a_good_game

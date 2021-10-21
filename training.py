@@ -42,7 +42,7 @@ base_model = tf.keras.applications.MobileNetV2(
 )
 
 base_model.trainable = False
-num_classes = 11
+num_classes = 2
 
 model = tf.keras.Sequential([
     base_model,
@@ -58,7 +58,7 @@ model.compile(
     metrics=['accuracy']
 )
 
-epochs = 20
+epochs = 10
 history = model.fit(
     train_generator,
     epochs=epochs,
